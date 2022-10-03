@@ -26,6 +26,10 @@
 ###### Step 10. Once you feel satisfied with your changes and message you can push these changes onto your remote repo on Github. Click Commit and Push, or you can Commit and Push later.
 ###### Step 11. CONGRATULATIONS! You've successfully used Webstorm and Git to work on your project head over to Github to see your changes live!
 
+# Why Git and Github?
+###### Git is a version control system that allows you to better your workflow.  What it provides is the ability to rewind to previously saved versions of your project. So you can test new features and functions without fully commiting a change to a previously function project.
+###### Github on the other hand provides a remote place to hold your repos. This allows your project to be collaborated on and cloned on any system with access to Git/Github. If you want to work on your project on another system all you have to do is clone it from your Github Repo.
+ 
 
 ## Glossary
 
